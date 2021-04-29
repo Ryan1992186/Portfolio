@@ -1,0 +1,44 @@
+* {
+    background-color: teal;
+}
+
+.head {
+    display: flex;
+    flex-shrink: 2;
+    padding-right: 70px;
+}
+
+section.head h1{
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section.head a{
+    display: flex;
+    position: relative;
+    left: 600px;
+    padding-top: 45px;
+    padding-left: 25px;
+    font-size: 30px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+div section.Aboutmeheadertext{
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    align-items: flex-start;
+}
+
+div section.Aboutmeheadertext p{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: auto;
+}
