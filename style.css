@@ -36,7 +36,7 @@ div section.Aboutmeheadertext{
     align-items: flex-start;
 }
 
-div section.Aboutmeheadertext p{
+div section.Aboutmeheadertext p {
     display: flex;
     flex-wrap: wrap;
     position: relative;
